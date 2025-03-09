@@ -1,1 +1,0 @@
-/home/tan/Development/rust/rust-basics-web3-cebu-polkadot/submissions/group-1/group_1_character_variable/target/debug/group_1_character_variable: /home/tan/Development/rust/rust-basics-web3-cebu-polkadot/submissions/group-1/group_1_character_variable/src/main.rs
